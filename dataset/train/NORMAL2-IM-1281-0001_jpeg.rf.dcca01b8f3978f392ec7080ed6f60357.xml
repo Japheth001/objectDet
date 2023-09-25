@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>NORMAL2-IM-1281-0001_jpeg.rf.dcca01b8f3978f392ec7080ed6f60357.jpg</filename>
+	<path>NORMAL2-IM-1281-0001_jpeg.rf.dcca01b8f3978f392ec7080ed6f60357.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

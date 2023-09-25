@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>person1595_bacteria_4183_jpeg.rf.48afe4fc8ca82712632be2372a7e5677.jpg</filename>
+	<path>person1595_bacteria_4183_jpeg.rf.48afe4fc8ca82712632be2372a7e5677.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

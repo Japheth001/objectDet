@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>person1111_virus_1836_jpeg.rf.a6684805639f5ec2ce9133742aa4137c.jpg</filename>
+	<path>person1111_virus_1836_jpeg.rf.a6684805639f5ec2ce9133742aa4137c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation>
+	<folder></folder>
+	<filename>person1138_virus_1879_jpeg.rf.16e6a23c8fdb80d7febc36c846ee6511.jpg</filename>
+	<path>person1138_virus_1879_jpeg.rf.16e6a23c8fdb80d7febc36c846ee6511.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>low-pneumonia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>240</xmin>
+			<xmax>275</xmax>
+			<ymin>130</ymin>
+			<ymax>344</ymax>
+		</bndbox>
+		<polygon>
+			<x1>238.974359</x1>
+			<y1>129.292929</y1>
+			<x2>267.692308</x2>
+			<y2>342.760984</y2>
+			<x3>273.846154</x3>
+			<y3>206.060606</y3>
+			<x4>238.974359</x4>
+			<y4>129.292929</y4>
+		</polygon>
+	</object>
+</annotation>
